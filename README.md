@@ -15,6 +15,8 @@ Basic program steps
 4. Draw all colours and contours to the screen
 5. Repeat until program is stopped
 
+On a Lenovo G50-70 laptop, I get about 8FPS, but on a PC can get the full 30FPS which is only limited by the Kinect's capture rate.  If some settings are changed, the laptop is able to get even better framerates with minimal loss in quality.
+
 Here is a demonstation video from this year's project fair.
 
 https://youtu.be/_3MYQaCjBjU?t=56s
